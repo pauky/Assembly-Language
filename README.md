@@ -1,3 +1,7 @@
+# Assembly-Language
+《汇编语言》第3版 王爽
+学习笔记
+
 ## 使用方法
 1. 初始化
 ```
@@ -25,4 +29,3 @@ link ***.OBJ;
 ```
 debug ***.exe
 ```
-# Assembly-Language
